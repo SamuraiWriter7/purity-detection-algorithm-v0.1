@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it as below."
+title: "Epicenter Preservation OS Protocol"
+version: "0.1.1"
+date-released: "2026-05-25"
+
+authors:
+  - family-names: "Taro"
+    given-names: "Civilization OS Architect"
+
+repository-code: "https://github.com/SamuraiWriter7/epicenter-preservation-os-protocol-v0.1"
+
+keywords:
+  - "Epicenter Preservation OS"
+  - "Civilization OS"
+  - "Purity Protocol"
+  - "Trace Protocol"
+  - "Royalty OS"
+  - "Model Collapse"
+  - "AI provenance"
+  - "synthetic data"
+  - "natural data"
+
+license: "MIT"
+
+abstract: |
+  Epicenter Preservation OS Protocol v0.1 defines a draft protocol for preserving primary sources, reference traces, value circulation, and model-collapse monitoring in AI civilization.
+
+  Version 0.1.1 expands the PurityProtocol layer by adding a purity detection algorithm document, a purity assessment example, a JSON Schema for purity assessment records, and GitHub Actions validation for example files.
